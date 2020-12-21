@@ -3,6 +3,8 @@
 
 The Galileo Extruder is a total replacement for the standard / stock Voron 2.1 and 2.2 toolheads, right down to the X Carriage required for mounting.  The design was originally created for the 2.2 toolhead and carriage, and later adapted to work with the 2.1, giving new life to the 2.1 model printer.  Since the 2.1 carriage version was adapted from the newer 2.2 carriage, it updates the 2.1 carriage to be more similar to the 2.2 HD Omron carriage.  This change also unfortunately means that the standard Fotek probe is no longer supported with the 2.1 carriage, and unfortunately this will not be changing.
 
+### Please note, the ONLY model that needs to be printed with supports, is the "main_extruder_body", which has already been oriented in the best way for printing.  It will need supports from the print bed only.  All of the rest of the models are already oriented properly, and do not need supports.
+
 Onward to the models...
 
 ## Voron 2.1
