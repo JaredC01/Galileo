@@ -11,7 +11,7 @@ Onward to the models...
 
 The 2.1 Omron carriage is a fully-redesigned carriage based on the 2.2 HD carriage for the Omron probe.  The carriage is designed for use with either ZipChains from the 2.2 model, or the TapeChains from the stock 2.1 model.  If using the TapeChains, you will need to print the included adapter to allow mounting to the carriage. The STL files are available in the stl folder above, and are listed with "2.1_omron" in the name, as well as "2.1_tape_chain" for the TapeChain adapter.
 
-## Voron 2.2 Carriage
+## Voron 2.2
 ### Omron Carriage
 ![Image](../images/22omron.png)
 
