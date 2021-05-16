@@ -1,20 +1,22 @@
-# Galileo Projects
+# The Galileo Projects
 ## Projects by JaredC01 using planetary gearsets for the Voron Design printers.
 
 Welcome everyone!
 
-The Galileo project (or more specifically, projects) is designed around a planetary gearset configuration for high-efficiency / low-loss power transfer with gear reductions for increased torque.  The original project started life as a design from lorinczroby on [Thingiverse](https://www.thingiverse.com/thing:4223085), that has been adapted and evolved into what you see here today.  The design has been well-tested, and is not only a very powerful design (with a 7.5:1 gear reduction), but also a very lightweight design, allowing for incredible print speeds over 300mm/s.  The idea of this project was to make a platform that is modular in design, that allows an easy upgrade path from the standard print platforms available to the Voron Design printers.
-
-### Currently, the Voron versions 2.1, 2.2, 1.8, and 2.4 are compatible with the Galileo projects.  Onward to the designs!
-
-## Galileo Extruder
-
-The Galileo Extruder is the least-changed version of the designs, with most of the changes made to the accompanying carriage parts.  The main housing has had quite a few under-the-hood changes made to it in order to make it easier to print, as well as to adapt it to the Voron printhead, but has remained mostly unchanged on the exterior of the design.  The Extruder design REQUIRES a new toolhead, and a new carriage for the X rail.  Currently, there are toolheads for the Slice Engineering Mosquito hot-end, as well as the Triangle Labs Dragon hot-end, and carriages available for the V2.1, and V2.2 printers.  As of now, the V2.1 carriage is limited to the Omron probe (Fotek not currently supported), while the V2.2 carriage is available for both the Fotek probe, as well as the Omron probe.
-
-![Image](./images/galileoextruder.png)
+Here you will find information and files for all of my publicly-available planetary gearset designs, known as the Galileo projects.  All of the Galileo projects have been designed using planetary gearsets for high efficiency gear reduction.
 
 ## Galileo Clockwork
 
-The Galileo Clockwork is a mostly original design based around the Afterburner hot-end system.  This clockwork replaces the existing BMG-style clockwork in order to use the planetary design in its place.  The main parts of the extruder design - the stepper, ring gear housing, planetary gears, and shafts, are all the same from the Extruder to the Clockwork to keep the main "work" portion of the design the same, which allows the parts to be used interchangeably between the designs.  Because this replaced just the clockwork section of the Afterburner configuration, it does not require a new toolhead, fan duct design, etc.  This is a "drop-in" replacement for the clockwork section of the Afterburner.
+### As of now, every Voron running an Afterburner toolhead is compatible with the Galileo Clockwork, however the V1 designs will need a different chain mount design, or an adjusted X/Y Joint on the gantry mount.
 
-![Image](./images/galileoclockwork.png)
+#### First, some background, and credit...
+
+The original planetary extruder design was developed by Robert Lorincz and posted on [Thingiverse](https://www.thingiverse.com/thing:4223085) as a project with no name, and titled only by its specs of 140g weight with 10kg of pushing force.  I loved the design so much, I immediately went about adapting it to use with the Voron 2.2 toolhead that I was running at the time.  The Voron project pretty quickly took off, and a name was formed by the Voron community, "The Orbiter".  As it turned out, Robert also loved the name, and adopted it for his model, which is now packaged and sold as the Orbiter (and has become INCREDIBLY popular, for good reason)!  Fast fowarding a bit, I realized that my love of planetary designs was not going to be limited to the extruder design, so I decided to change the project name for my designs to Galileo out of respect for Robert, and to avoid confusion between the models.
+
+The Galileo Clockwork is designed as a drop-in replacement for the existing Afterburner Clockwork module, and uses the same basic core components as the original Orbiter design for the drive system, maintaining a 7.5:1 gear ratio and using the larger Bonctech gears, which allow more grip on the filament.  Robert was also kind enough to allow me to work with LDO to put out a Galileo Clockwork kit, which includes ALL of the necessary core parts, and only requires the printed ABS parts included here for final assembly.
+
+![Image](./images/clockwork1.png)
+
+![Image](./images/clockwork2.png)
+
+![Image](./images/clockwork3.png)
